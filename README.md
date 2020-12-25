@@ -2,6 +2,8 @@
 
 A new Flutter project.
 ![](demo.gif)
+![image](https://your-image-url.type)
+<img src="demo.gif" height="600">
 
 ## Getting Started
 
