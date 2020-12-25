@@ -1,0 +1,37 @@
+name: unit_converter
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  shared_preferences: ^0.5.12+4
+  rxdart: ^0.24.1
+  auto_size_text: ^2.1.0
+  url_launcher: ^5.7.10
+  number_display: ^2.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Roboto Condensed
+      fonts:
+        - asset: fonts/RobotoCondensed-Bold.ttf
+    - family: Open Sans Condensed
+      fonts: 
+        - asset: fonts/OpenSansCondensed-LightItalic.ttf
+
+  assets:
+    - assets/png/
