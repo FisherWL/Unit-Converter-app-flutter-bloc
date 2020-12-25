@@ -1,4 +1,4 @@
-# unit converter 2021
+# Unit Converter 2021
 
 Another flutter/ dart project uses bloc/ stream for state management and Reactive Programming.
 
