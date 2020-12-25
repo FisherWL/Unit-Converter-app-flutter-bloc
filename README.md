@@ -1,6 +1,7 @@
 # unitconverter
 
 A new Flutter project.
+![](demo.gif)
 
 ## Getting Started
 
